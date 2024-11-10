@@ -5,6 +5,7 @@ export default async function Index() {
     <>
       <main>
         This is Index!
+        TEST
       </main>
     </>
   );
